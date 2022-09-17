@@ -19,6 +19,7 @@ mesmas em cada repositório diferente, apresentando assim um código mais limpo 
 ## PRIMEIRO PROGRAMA - SUBPASTA
 Pasta onde aloquei o primeiro programa em python com o "Hello World" usual, exatamente para evitar a "maldição" do hello world.
 Arquivo simples, com somente 1 função que imprime o "Hello World" na tela quando executado
+Link direto: https://github.com/LucasDeleonPaz/Introducao_Data_Science/tree/main/PRIMEIRO_PROGRAMA
 
 ## CONHECENDO A LINGUAGEM - SUBPASTA
 Pasta onde aloquei mais 5 pastas para a coleção de programas onde executo as tarefas iniciais.
@@ -26,20 +27,20 @@ A mesma se subdivide em:
 
 **VARIÁVEIS E CONSTANTES**: Possui um programa onde aloco diversos tipos de variáveis e constantes para
 treino de declaração das mesmas.
-link direto: 
+link direto: https://github.com/LucasDeleonPaz/Introducao_Data_Science/tree/main/CONHECENDO_A_LINGUAGEM/VARI%C3%81VEIS_E_CONSTANTES
 
 **TIPOS DE DADOS**: Possui um programa onde aloco diversos prints com diversos tipos de dados para conferência dos mesmos
-Link direto:
+Link direto: https://github.com/LucasDeleonPaz/Introducao_Data_Science/tree/main/CONHECENDO_A_LINGUAGEM/TIPOS_DE_DADOS
 
 **MODO INTERATIVO**: Possui um programa com as funções built-in dir() e help() com algumas explicações
 de como usar e porquê usar
-Link direto:
+Link direto: https://github.com/LucasDeleonPaz/Introducao_Data_Science/tree/main/CONHECENDO_A_LINGUAGEM/MODO_INTERATIVO
 
 **CONVERSÃO DE TIPOS**: Possui um programa com algumas variáveis onde treino a conversão de tipos
 e a utilização do operador '//' para retorno de inteiros para divisão de inteiros por inteiros
-Link direto:
+Link direto: https://github.com/LucasDeleonPaz/Introducao_Data_Science/tree/main/CONHECENDO_A_LINGUAGEM/CONVERS%C3%83O_DE_TIPOS
 
 **FUNÇÕES DE ENTRADA**: Possui um programa com inputs onde treino a entrada de valores para saída de valores
 dinâmicos.
-Link direto:
+Link direto: https://github.com/LucasDeleonPaz/Introducao_Data_Science/tree/main/CONHECENDO_A_LINGUAGEM/FUNCOES_ENTRADA_SAIDA
 
