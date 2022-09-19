@@ -44,3 +44,27 @@ Link direto: https://github.com/LucasDeleonPaz/Introducao_Data_Science/tree/main
 dinâmicos.
 Link direto: https://github.com/LucasDeleonPaz/Introducao_Data_Science/tree/main/CONHECENDO_A_LINGUAGEM/FUNCOES_ENTRADA_SAIDA
 
+**COLOCANDO EM PRÁTICA**: Possui um programa onde coloco em prática tudo o que já fora aprendido com 
+a descrição de retornos de cada lançamento. Também tem testes com métodos ( Funções built-in, métodos de testes e  auxiliárea - diversos) de string, 
+onde testo todos os lançamentos e retornos, para melhor aplicação e entendimento de como e quando usar.
+Tem também 
+Link direto:
+
+## CALCULADORA PYTHON 
+Pasta onde aloquei somente 2 formas de calculadora em python, sendo uma com inputs e estrutura de condição e 
+a outra, com inputs, função e estrutura de condição
+Link direto:
+
+## CALCULADORA IMC
+Pasta onde aloquei somente 1 programa onde lá escrevi uma calculadora de IMC.
+A mesma recebe o peso e altura por parâmetro e retorna o IMC da pessoa.
+Link direto:
+
+## DELTA BHASKARA
+Pasta onde aloquei somente 1 programa onde lá escrevi 2 funções, sendo elas a função **DELTA**, que 
+encontra o delta dos valores alocados, recebe por parâmetro 3 valores. 
+E a outra a **BHASKARA**, que recebe também os 3 valores, chama a função **DELTA** que retorna o delta
+dos valores, logo após ele confere a validade do delta (se é negativo ou não) e segue para a conferência
+dos valores X' e X'' (X linha e X 2 linhas) e retorna esse valor.
+Link direto:
+
