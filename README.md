@@ -68,3 +68,23 @@ dos valores, logo após ele confere a validade do delta (se é negativo ou não)
 dos valores X' e X'' (X linha e X 2 linhas) e retorna esse valor.
 Link direto: https://github.com/LucasDeleonPaz/Introducao_Data_Science/tree/main/DELTA_BHASKARA
 
+## CONDICIONAIS
+Pasta com somente 1 programa com uma função com condicionais que verificam e atestam
+se dada nota é ou não suficiente para aprovação.
+A função é construída de forma à receber por parâmetro uma nota e dentro do seu escopo, conferir
+e retornar o resultado.
+Link direto:
+
+## ESTRUTURAS DE REPETIÇÃO
+Pasta com somente 1 programa com diversas aplicações de estrutura de repetição, onde tento 
+aplicar os conceitos aprendidos ao longo do treinamento.
+Link direto:
+
+## EXERCITANDO LOOPS E CONDICIONAIS
+Pasta com somente 1 programa com 2 funções onde na primeira, faço uma função que verifica a quantidade
+de parêntesis existentes (de abertura e fechamento), compraro se existe o mesmo número de parenteses de abertura e fechamento.
+Caso não tenha, o mesmo retorna o número de parentesis (seja de abertura ou fechamento) à mais.
+A outra função verifica repetição de letras lançadas numa string.
+Caso haja repetição maior que 2, o mesmo reescreve a string, adicionando um máximo de 2 caracteres.
+Link direto:
+
