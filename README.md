@@ -88,3 +88,35 @@ A outra função verifica repetição de letras lançadas numa string.
 Caso haja repetição maior que 2, o mesmo reescreve a string, adicionando um máximo de 2 caracteres.
 Link direto:
 
+## LISTAS
+Pasta com somente 1 programa onde lanço todos os métodos de lista e os treino para melhor aprendizado e compreensão, descrevendo os retornos e ações de cada um.
+Link direto:
+
+## EXERCITANDO LISTAS
+Pasta contendo somente 1 programa onde exercito com várias propostas diferentes a utilização de listas e a "fabricação" de listas
+Link direto:
+
+## DICIONÁRIOS
+Pasta contendo somente 1 programa onde lanço os métodos e crio vários dicionários para melhor aprender e por em prática a utilização dos dicionários
+Link direto:
+
+## EXERCITANDO DICIONÁRIOS
+Pasta contendo somente 1 programa onde exercito com várias proposta diferentes a utilização de dicionários e a "fabricação" dos mesmos
+Link direto:
+
+## TUPLAS
+Pasta contendo somente 1 programa onde instancio uma tupla e faço uma pequena interação com a mesma.
+Deixo algumas descrições que são necessárias à utilização da mesma, assim como a principal diferença entre tuplas e listas e dicionários.
+Link direto:
+
+## EXERCITANDO TUPLAS
+Pasta contendo somente 1 programa onde exercito todo o aprendizado por mim adquirido em relação à tuplas. Utilizo dos métodos dispostos para a mesma, faço algumas iterações e retornos.
+Link direto:
+
+## CONJUNTOS
+Pasta contendo somente 1 programa onde exercito todo o aprendizado sobre conjuntos com vários exercícios.
+Link direto:
+
+## MODULOS E PACOTES
+Pasta contendo um conjunto de programas onde treinei a construção de pacotes e modularização de código, para maior e melhor legibilidade.
+Link direto:

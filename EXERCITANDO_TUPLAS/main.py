@@ -1,0 +1,5 @@
+tupla = ('valor_1', 2, 3, 3.1, "Lucas", ['elemento_1', 'elemento_2'], {"nome": "Deleon"}, "Lucas")
+print(tupla, tupla[len(tupla)-1])
+print()
+print(tupla.count("Lucas"))
+print(tupla.index(3.1))
