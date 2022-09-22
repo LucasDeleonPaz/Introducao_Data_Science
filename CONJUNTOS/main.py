@@ -86,3 +86,6 @@ print()
 subset = conjunto_02.issubset(conjunto_00)
 print(subset)
 print()
+
+for item in uniao_conjunto:
+    print(item)

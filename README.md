@@ -120,3 +120,20 @@ Link direto: https://github.com/LucasDeleonPaz/Introducao_Data_Science/tree/main
 ## MODULOS E PACOTES
 Pasta contendo um conjunto de programas onde treinei a construção de pacotes e modularização de código, para maior e melhor legibilidade. <br/>
 Link direto: https://github.com/LucasDeleonPaz/Introducao_Data_Science/tree/main/MODULOS_PACOTES
+
+## MUTABILIDADE
+Pasta contendo um conjunto de programas onde treino a construção de pacotes e modularização, além de aplicar o conceito de 
+imutabilidade e mutabilidade. Faço imports de funções e utilização das mesmas.<br/>
+Link direto:
+
+## Packing e Unpacking
+Pasta contendo um conjunto de programas onde treino a construção de pacotes e modularização, além de aplicar o conceito
+de empacotamento e desempacotamento. <br/>
+Link direto:
+
+
+## EXERCITANDO ARGS E KWARGS
+Pasta contendo um programa onde aplico os conhecimentos por mim adquiridos sobre "ARGS" e "KWARGS"<br/>
+Link direto:
+
+
