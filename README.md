@@ -137,3 +137,6 @@ Pasta contendo um programa onde aplico os conhecimentos por mim adquiridos sobre
 Link direto:
 
 
+## COMPREHENSIONS
+Pasta contento um programa aonde aplico os conhecimentos por mim adquiridos sobre comprehensions e como as fazê-las. <br/>
+Link direto:
